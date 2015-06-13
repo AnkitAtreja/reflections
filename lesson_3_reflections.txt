@@ -9,3 +9,11 @@ automatically stay up-to-date with your remote repository?
 We may working on some work in our local repository and automatic pull 
 may lead to conflict or overwritting our local work. So we might not want
  to automatic pull all changes from remote.
+
+ Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+ Fork is a term in github context only and is a type of clone but from github to github.
+ Clone is copying a repository from one place to another
+ Branching is doing experimental work in a repository but keeping the main changes intact its like diverging the commit tree.
+ I would like to add one thing that forking has hugely change the software world. Many open source
+ project could come to such hieghts because of collaboration which became very easy using forking and pull request.
