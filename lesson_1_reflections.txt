@@ -1,0 +1,7 @@
+I don't know hwt to right here. that wasn't bugs. and diff view is very bad. And even instructor was saying bigger
+ than 120 char line isn't really helpful. so i don't know.
+
+ Well yeah if history is maintained we don't need to bother about comments and maintaing history through dirty hacks
+
+ What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+ well understood pros, cons. no need to write
