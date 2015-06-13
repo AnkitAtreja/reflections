@@ -17,3 +17,7 @@ How do the diagrams help you visualize the branch structure?
 I am very happy to see these branch graph diagrams. It makes my concepts
 clear also may help visualize commits which may some time gets lost if
 tehre is a reachability problem.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Result is combination of both functionality which was happened in two seperate branches. We represented merge as a commit and moved a branch label ahead to tell its a change and hence it got committed also to track 
+that commit it is most suitable to setup as branch label as all other commits which are merged since last diverging will be reachabele to it. 
