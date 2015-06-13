@@ -12,3 +12,8 @@ Only add files which are part of logical commit to staging area and keep rest fi
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When trying new features. When multiple users are working on related /unrelated code.
+
+How do the diagrams help you visualize the branch structure?
+I am very happy to see these branch graph diagrams. It makes my concepts
+clear also may help visualize commits which may some time gets lost if
+tehre is a reachability problem.
