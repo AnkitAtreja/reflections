@@ -1,3 +1,11 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-I would want to use cloud to save my data so that it can be accesible from anywhere to me or to someone with whom i want to share this with. Also it may help in colaborations.
+I would want to use cloud to save my data so that it can be accesible
+ from anywhere to me or to someone with whom i want to share this with.
+  Also it may help in colaborations.
+
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+We may working on some work in our local repository and automatic pull 
+may lead to conflict or overwritting our local work. So we might not want
+ to automatic pull all changes from remote.
