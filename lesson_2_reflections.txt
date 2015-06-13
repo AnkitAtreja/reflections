@@ -4,3 +4,7 @@ A simple directory will become a simple repository
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 it defines what we want to commit may be basically defines a changelist
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Only add files which are part of logical commit to staging area and keep rest files to working directory only. 
