@@ -17,3 +17,8 @@ may lead to conflict or overwritting our local work. So we might not want
  Branching is doing experimental work in a repository but keeping the main changes intact its like diverging the commit tree.
  I would like to add one thing that forking has hugely change the software world. Many open source
  project could come to such hieghts because of collaboration which became very easy using forking and pull request.
+
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+ we can see the logs of remote as well as compare them with our code. Also we can merge with it at time we are ready
+ and that may lead to less chances of conflicts
+ 
